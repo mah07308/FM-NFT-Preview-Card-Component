@@ -53,6 +53,10 @@ Users should be able to:
 ```
 
 ```css
+.image {
+  position: relative;
+}
+
 .overlay {
   position: absolute;
   top: 0;
