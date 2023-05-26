@@ -11,10 +11,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+    - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -31,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-nft-preview-card-component-BiEIcz-T31](https://www.frontendmentor.io/solutions/responsive-nft-preview-card-component-BiEIcz-T31)
+- Live Site URL: [https://mah07308.github.io/FM-NFT-Preview-Card-Component/](https://mah07308.github.io/FM-NFT-Preview-Card-Component/)
 
 ## My process
 
@@ -45,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
--To create an overlay over an image.
+-To create an hover overlay over an image.
 
 ```html
 <div class="image">
